@@ -1,0 +1,8 @@
+use_frameworks!
+
+target 'Crypto Wallet' do
+	pod 'Fabric'
+	pod 'Crashlytics'
+	pod 'AlamofireObjectMapper', '~> 4.0'
+	pod 'AlamofireImage', '~> 3.1'
+end
